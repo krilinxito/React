@@ -1,0 +1,15 @@
+h1
+{
+    color: aliceblue;
+    font-size: larger;
+}
+.Container
+{
+    display: flex;
+    background-color: cadetblue;
+    border-radius: 2%;
+    width: 500px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+}
