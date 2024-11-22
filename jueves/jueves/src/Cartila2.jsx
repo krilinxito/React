@@ -1,10 +1,10 @@
 import './Cartila.css'
-function Cartila() {
+function Cartila2() {
     return (
-        <div className="container">
+        <div className="container2">
             <h1 className="title">Title</h1>
             <img
-                src="https://ih1.redbubble.net/image.4646860467.2555/raf,360x360,075,t,fafafa:ca443f4786.jpg"
+                src="https://i.pinimg.com/474x/68/7a/d3/687ad34f46ecd275b19cffc605f2bd77.jpg"
                 alt="shrek"
             />
             <h2 className='subtitle'>Sub title</h2>
@@ -15,4 +15,4 @@ function Cartila() {
     );
 }
 
-export default Cartila
+export default Cartila2
