@@ -1,7 +1,7 @@
 import './Cartila.css'
 function Cartila(props) {
     return (
-        <div className="container">
+        <div className={props.style}>
             <h1 className="title">Title</h1>
             <img
                 src={props.img}
