@@ -3,7 +3,7 @@ function Cartila(props) {
     return (
         <div className={props.style}>
             <h1 className="title">Title</h1>
-            <img
+            <img className='display'
                 src={props.img}
                 alt="shrek"
             />
